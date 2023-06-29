@@ -1,0 +1,15 @@
+/dist/
+build
+deploy
+node_modules/
+**/dev/
+.vagga
+
+# Rust
+**/*.rs.bk
+
+# cargo-mobile
+**/.cargo/
+**/gen/
+**/design/
+**/target/

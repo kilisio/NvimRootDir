@@ -1,7 +1,7 @@
 {
-  "name": "appname",
-  "title": "appname",
-  "version": "0.0.11",
+  "name": "nvim-root-dir",
+  "title": "nvim-root-dir",
+  "version": "0.0.2",
   "description": "",
   "author": "kilisio <pkilisio@gmail.com> (kilisio.deno.dev)",
   "category": "DeveloperTool",
